@@ -1,0 +1,7 @@
+{
+    "name": "GitInfo",
+    "version": "0.0.1",
+    "build": {
+        "extraScript": "update_git_info.py"
+    }
+}
